@@ -1,0 +1,20 @@
+
+#REFRENCE NUMBER: 21025611
+
+#A symmetric cipher is one that uses the same key for encryption and decryption
+#STEPS
+
+#TODO:Take input string that needs to be encrypted
+#TODO:Change all lowercases to uppercases and vice versa. 
+#TODO:Calculate location of all the letters in the alphabet
+#TODO:Subtract 3 from the positions of only the uppercase letters.
+#TODO:Use the new positions to get the corresponding alphabets. 
+
+'''
+Example: 
+J  e s  s  e
+j  E S  S  E
+10 5 19 19 5
+10 2 16 16 2
+j  B P  P  B
+'''
